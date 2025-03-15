@@ -1,0 +1,8 @@
+{
+  "name": "KeySeek",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "3bc67c70"
+}
